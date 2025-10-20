@@ -281,3 +281,6 @@ C:\Users\J\Desktop\ApiEmpresa\bin\Debug\net9.0\NSwag.Core.Yaml.dll
 C:\Users\J\Desktop\ApiEmpresa\bin\Debug\net9.0\NSwag.Generation.dll
 C:\Users\J\Desktop\ApiEmpresa\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
 C:\Users\J\Desktop\ApiEmpresa\bin\Debug\net9.0\YamlDotNet.dll
+C:\Users\J\Desktop\ApiEmpresa\obj\Debug\net9.0\ApiEmpresa.sourcelink.json
+C:\Users\J\Desktop\ApiEmpresa\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\J\Desktop\ApiEmpresa\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
